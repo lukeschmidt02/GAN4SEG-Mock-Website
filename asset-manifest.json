@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GAN4SEG-Mock-Website/static/css/main.e6c13ad2.css",
+    "main.js": "/GAN4SEG-Mock-Website/static/js/main.f3dd2167.js",
+    "static/js/787.0b51c281.chunk.js": "/GAN4SEG-Mock-Website/static/js/787.0b51c281.chunk.js",
+    "index.html": "/GAN4SEG-Mock-Website/index.html",
+    "main.e6c13ad2.css.map": "/GAN4SEG-Mock-Website/static/css/main.e6c13ad2.css.map",
+    "main.f3dd2167.js.map": "/GAN4SEG-Mock-Website/static/js/main.f3dd2167.js.map",
+    "787.0b51c281.chunk.js.map": "/GAN4SEG-Mock-Website/static/js/787.0b51c281.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f3dd2167.js"
+  ]
+}
